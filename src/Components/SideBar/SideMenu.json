@@ -20,16 +20,24 @@
           "name": "Environments"
         },
         {
+          "link": "/assets/price-estimator",
+          "name": "priceEstimator"
+        },
+        {
           "link": "/assets/discovered-assets",
           "name": "Discovered Assets"
+        },
+        {
+          "link": "/assets/cost-optimization",
+          "name": "Cost Optimization"
         },
         {
           "link": "#",
           "name": "Dept Wise Product"
         },
         {
-          "link": "#",
-          "name": "All Service"
+          "link": "/assets/assetmanagement",
+          "name": "Asset Management"
         },
         {
           "link": "#",
@@ -62,6 +70,11 @@
       "name": "Preference"
     },
     {
+      "link": "/wafr",
+      "icon": "wafr",
+      "name": "WAFR"
+    },
+    {
       "link": "/setting",
       "icon": "setting",
       "name": "Setting"
@@ -70,6 +83,11 @@
       "link": "/new-reports/over-view-dashboard",
       "icon": "report",
       "name": "Reports"
+    },
+    {
+      "link": "/llm",
+      "icon": "llm",
+      "name": "LLM"
     }
     
   ]
